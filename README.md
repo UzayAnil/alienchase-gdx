@@ -1,5 +1,6 @@
 # Alien Chase 2013 Chema Edition
 
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/alienchase-gdx)](https://repl.it/github/UzayAnil/alienchase-gdx)
 ProTip: this README file is written in plain English. Most of the code for
 this project is still in Spanish. I don't know if I'll translate the code
 to English, as this is just some sample code that owns to my tutorials,
